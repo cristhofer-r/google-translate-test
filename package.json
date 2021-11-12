@@ -1,0 +1,17 @@
+{
+  "name": "demo_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raj Kapadia",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^6.0.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.3"
+  }
+}
